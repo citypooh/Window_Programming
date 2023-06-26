@@ -1,0 +1,7 @@
+﻿  winp.cpp
+C:\Users\swsyj\OneDrive\바탕 화면\성우\학교\2021년 1학기\윈도우프로그래밍\실습\winp\winp\winp.cpp(379,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\swsyj\OneDrive\바탕 화면\성우\학교\2021년 1학기\윈도우프로그래밍\실습\winp\winp\winp.cpp(379,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\swsyj\OneDrive\바탕 화면\성우\학교\2021년 1학기\윈도우프로그래밍\실습\winp\winp\winp.cpp(526,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\swsyj\OneDrive\바탕 화면\성우\학교\2021년 1학기\윈도우프로그래밍\실습\winp\winp\winp.cpp(570,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\swsyj\OneDrive\바탕 화면\성우\학교\2021년 1학기\윈도우프로그래밍\실습\winp\winp\winp.cpp(585,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  winp.vcxproj -> C:\Users\swsyj\OneDrive\바탕 화면\성우\학교\2021년 1학기\윈도우프로그래밍\실습\winp\Debug\winp.exe

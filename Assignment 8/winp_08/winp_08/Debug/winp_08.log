@@ -1,0 +1,6 @@
+﻿  winp_08.cpp
+C:\Users\swsyj\OneDrive\바탕 화면\학교\2021년 1학기\윈도우프로그래밍\실습\winp_08\winp_08\winp_08.cpp(84,44): warning C4244: '인수': 'double'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\swsyj\OneDrive\바탕 화면\학교\2021년 1학기\윈도우프로그래밍\실습\winp_08\winp_08\winp_08.cpp(90,44): warning C4244: '인수': 'double'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\swsyj\OneDrive\바탕 화면\학교\2021년 1학기\윈도우프로그래밍\실습\winp_08\winp_08\winp_08.cpp(96,44): warning C4244: '인수': 'double'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\swsyj\OneDrive\바탕 화면\학교\2021년 1학기\윈도우프로그래밍\실습\winp_08\winp_08\winp_08.cpp(61,9): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+  winp_08.vcxproj -> C:\Users\swsyj\OneDrive\바탕 화면\학교\2021년 1학기\윈도우프로그래밍\실습\winp_08\Debug\winp_08.exe
